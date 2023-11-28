@@ -83,7 +83,7 @@
     border-color: rgb(162,84,242);
     outline: none;
   }
-  /*Hide Number Arrows*/
+  /*Menyembunyikan tanda panah untuk menaikkan nilai dan menurunkan nilai*/
   .container input[type="number"] {
     -moz-appearance: textfield;
   }
